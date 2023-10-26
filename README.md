@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src=”https://github.com/Victoroide/Victoroide/assets/111157887/c17b95c1-5ca0-489e-bfc3-39664e3ec93f" alt=”my banner”>
 <!--
 **Victoroide/Victoroide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
