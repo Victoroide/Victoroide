@@ -12,12 +12,12 @@ I'm currently a Systems Engineering student at UAGRM and very passionate about a
 
 <p align="left">
   <b>Most Used Languages:</b><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoroide&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoroide&layout=compact&theme=radical">
 </p>
 
 <p align="left">
   <b>GitHub Stats:</b><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Victoroide">
+  <img src="https://github-readme-stats.vercel.app/api?username=Victoroide&theme=radical">
 </p>
 
 ---
@@ -29,7 +29,3 @@ I'm currently a Systems Engineering student at UAGRM and very passionate about a
   - 🌐 <a href="https://www.instagram.com/victorhugocf_/">Instagram</a><br>
   - 📧 <a href="mailto:cvictorhugo39@gmail.com">Email</a>
 </p>
-
----
-
-⭐️ From [Victoroide](https://github.com/Victoroide)
