@@ -1,15 +1,35 @@
-<img src=”https://user-images.githubusercontent.com/111157887/278227582-ba08ae07-e77e-47c1-90bc-541041f32454.jpg" alt=”my banner”>
-<!--
-**Victoroide/Victoroide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![3d22fd01c867668a5ab41efd99ebc93c](https://github.com/Victoroide/Victoroide/assets/111157887/b6a95abb-96e7-48a3-9f8c-f48531f0e8be)
+<h2 align="left">Hello, I'm Victor 👋</h2>
 
-Here are some ideas to get you started:
+I'm currently a Systems Engineering student at UAGRM and very passionate about algorithms and problem solving. I've been recently working among my GitHub account, so you'll see more university-project repositories in my profile. Most of them are part of a project or laboratory of a practical subject. As of now, I'm working as a Machine Learning Engineer primarily using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Current Position**: Machine Learning Engineer  
+🌱 **Learning**: Some ML techniques and strategies 
+👯 **Collaborating** On privates ML projects  
+💬 **Languages**: Currently working with Python, C++, Java and Pascal  
+🎓 **University**: UAGRM - Systems Engineering student  
+🌍 **Location**: Santa Cruz, Bolivia  
+
+<p align="left">
+  <b>Most Used Languages:</b><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoroide&layout=compact">
+</p>
+
+<p align="left">
+  <b>GitHub Stats:</b><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Victoroide">
+</p>
+
+---
+
+<p align="left">
+  <b>Connect with Me:</b><br>
+  - 🌐 <a href="https://www.linkedin.com/in/victor-hugo-cu%C3%A9llar-flores-20a629226/">LinkedIn</a><br>
+  - 🌐 <a href="https://github.com/Victoroide">GitHub</a><br>
+  - 🌐 <a href="https://www.instagram.com/victorhugocf_/">Instagram</a><br>
+  - 📧 <a href="mailto:cvictorhugo39@gmail.com">Email</a>
+</p>
+
+---
+
+⭐️ From [Victoroide](https://github.com/Victoroide)
