@@ -6,26 +6,12 @@ I'm currently a Systems Engineering student at UAGRM and very passionate about a
 🔭 **Current Position**: Machine Learning Engineer  
 🌱 **Learning**: Some ML techniques and strategies 
 👯 **Collaborating** On privates ML projects  
-💬 **Languages**: Currently working with Python, C++, Java and Pascal  
+💬 **Languages**: Currently working with Python. Also have knowledge in C++, Java and Pascal  
 🎓 **University**: UAGRM - Systems Engineering student  
 🌍 **Location**: Santa Cruz, Bolivia  
 
 <p align="left">
-  <b>Most Used Languages:</b><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoroide&layout=compact&theme=radical">
-</p>
-
-<p align="left">
-  <b>GitHub Stats:</b><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Victoroide&theme=radical">
-</p>
-
----
-
-<p align="left">
   <b>Connect with Me:</b><br>
   - 🌐 <a href="https://www.linkedin.com/in/victor-hugo-cu%C3%A9llar-flores-20a629226/">LinkedIn</a><br>
-  - 🌐 <a href="https://github.com/Victoroide">GitHub</a><br>
-  - 🌐 <a href="https://www.instagram.com/victorhugocf_/">Instagram</a><br>
   - 📧 <a href="mailto:cvictorhugo39@gmail.com">Email</a>
 </p>
