@@ -10,8 +10,8 @@ I'm a passionate Machine Learning Engineer and Mid Back-End Developer from Santa
 - **🚀 Problem Solver:** From competitive programming to real-world ML applications, I love the thrill of solving challenges.
 - **🤖 AI Enthusiast:** Exploring how AI can transform industries and bring new insights to everyday problems.
 
-[![committers.top badge](https://user-badge.committers.top/bolivia_private/Victoroide.svg)](https://user-badge.committers.top/bolivia_private/Victoroide)
-
+[![committers.top badge](https://user-badge.committers.top/bolivia_private/Victoroide.svg)](https://user-badge.committers.top/bolivia_private/Victoroide) 
+![](https://komarev.com/ghpvc/?username=Victoroide)
 
 ### 📬 Let's Connect
 
