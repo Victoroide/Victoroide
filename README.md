@@ -4,18 +4,25 @@
 
 ML Engineer and Backend Developer from Santa Cruz de la Sierra, Bolivia. 
 
-I work with Go and Python, building pipelines, backend systems and data analysis.
-Currently focused on NLP, clustering, and production models.
-
-![Profile Views](https://komarev.com/ghpvc/?username=Victoroide)
-
 ### What I work with
 
 **ML & Data:** Go • Python • Scikit-learn • Pandas • Jupyter Notebooks • PostgreSQL  
 **Backend:** Django • FastAPI  
 **Cloud:** AWS • Docker
 
-###  Get in touch
+### Currently working on
+
+- Building search and clustering systems
+- Training NLP models for text classification
+- Optimizing ML pipelines for production
+
+### GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Victoroide&theme=transparent)](https://github.com/Victoroide)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Victoroide)
+
+### Get in touch
 
 - [Email](mailto:cvictorhugo39@hotmail.com)
 - [LinkedIn](https://www.linkedin.com/in/vhugocuellarf)
