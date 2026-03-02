@@ -6,7 +6,7 @@ ML Engineer and Backend Developer from Santa Cruz de la Sierra, Bolivia.
 
 ### What I work with
 
-**ML & Data:** Go • Python • Scikit-learn • Pandas • Jupyter Notebooks • PostgreSQL  
+**ML & Data:** Go • Python • Pandas • Jupyter Notebooks • PostgreSQL  
 **Backend:** Django • FastAPI  
 **Cloud:** AWS • Docker
 
