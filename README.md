@@ -20,8 +20,6 @@ ML Engineer and Backend Developer from Santa Cruz de la Sierra, Bolivia.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Victoroide&theme=transparent)](https://github.com/Victoroide)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Victoroide)
-
 ### Get in touch
 
 - [Email](mailto:cvictorhugo39@hotmail.com)
