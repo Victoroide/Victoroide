@@ -16,10 +16,6 @@ ML Engineer and Backend Developer from Santa Cruz de la Sierra, Bolivia.
 - Training NLP models for text classification
 - Optimizing ML pipelines for production
 
-### GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Victoroide&theme=transparent)](https://github.com/Victoroide)
-
 ### Get in touch
 
 - [Email](mailto:cvictorhugo39@hotmail.com)
